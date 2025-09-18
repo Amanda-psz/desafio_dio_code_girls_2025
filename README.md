@@ -1,4 +1,4 @@
-# desafio_dio_code_girls_2025
+# Desafio_DIO_code_girls_2025 - Gerenciando Instâncias EC2 na AWS
 
 # Arquitetura Simples na AWS com EC2 + EBS
 
