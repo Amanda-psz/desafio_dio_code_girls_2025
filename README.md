@@ -10,10 +10,3 @@ Esse desafio mostra uma arquitetura básica na **Amazon Web Services (AWS)** uti
 
 - **Amazon EC2**: Instância configurada para hospedar a aplicação (ex.: servidor web).
 - **Amazon EBS**: Volume associado à instância EC2 para armazenamento persistente de dados.
-
-### Diagrama Simplificado
-
-```mermaid
-graph TD
-  A[Usuário] -->|HTTP/HTTPS| B[EC2 Instance]
-  B --> C[EBS Volume]
